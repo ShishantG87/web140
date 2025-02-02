@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(0, 0, 0, 0.678);
+  color: white;
+}
+
+.main-header {
+  display: flex;
+  justify-content: center;
+}
+.rest-of-body {
+    display: flex;
+    padding-top: 120px;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
